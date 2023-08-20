@@ -8,10 +8,6 @@ NU-Athletics is an innovative JAVA based desktop application designed to revolut
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Supported Facilities](#supported-facilities)
-- [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
