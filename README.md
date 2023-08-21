@@ -1,4 +1,4 @@
-# NU-Athletics
+# NU-Athletics ( Software Design and Analysis Course Project ) 
 
 NU-Athletics is an innovative JAVA based desktop application designed to revolutionize the management of sports facilities on campus. By digitalizing the sports system, this application aims to enhance efficiency, accessibility, and user experience for both athletes and administrators. Similar to NU-Slate and NU-Flex, NU-Athletics streamlines processes and empowers users in the realm of sports management.
 
@@ -7,8 +7,8 @@ NU-Athletics is an innovative JAVA based desktop application designed to revolut
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-
+- [Speciality](#speciality)
+  
 ## Introduction
 
 In a dynamic educational environment, sports play a vital role in promoting physical fitness, teamwork, and holistic student development. NU-Athletics aims to elevate the sports experience by digitizing the management of sports facilities on campus. With a user-friendly interface and advanced features, NU-Athletics enhances the overall sports management process, providing athletes and administrators with a seamless and efficient platform.
@@ -27,11 +27,15 @@ In a dynamic educational environment, sports play a vital role in promoting phys
 
 ![UI Image](https://github.com/MuhammadSaqib001/NU-Athletics/blob/main/UI%20Images/1%20(2).png)
 
+
 ![UI Image](https://github.com/MuhammadSaqib001/NU-Athletics/blob/main/UI%20Images/1%20(4).png)
+
 
 ![UI Image](https://github.com/MuhammadSaqib001/NU-Athletics/blob/main/UI%20Images/1%20(6).png)
 
+
 ![UI Image](https://github.com/MuhammadSaqib001/NU-Athletics/blob/main/UI%20Images/1%20(7).png)
+
 
 ![UI Image](https://github.com/MuhammadSaqib001/NU-Athletics/blob/main/UI%20Images/1%20(8).png)
 
@@ -45,12 +49,8 @@ To start using NU-Athletics, follow these steps:
 4. **Make Reservations:** Reserve sports facilities for specific dates and times that suit your schedule.
 5. **Stay Updated:** Receive notifications about facility availability, upcoming events, and schedule changes.
 
-## Supported Facilities
+## Speciality 
 
-NU-Athletics supports a wide range of sports facilities, including but not limited to:
-- Indoor courts (basketball, volleyball, badminton)
-- Outdoor fields (soccer, baseball, track)
-- Gymnasiums
-- Swimming pools
+You've developed NU-Athletics, a Java-based desktop app for sports facility management. We ensured applying the system design principles like SOLID , DRY and etc. You've also applied design principles like the Singleton pattern for the database, Factory Pattern for instance creation and many more for ensuring efficient resource management. Streamlining processes, similar to NU-Slate and NU-Flex, enhances efficiency and user experience. The app's innovation and digitization align with trends in sports management. Prioritizing user experience and applying design principles contribute to a well-structured and effective application.
 
 NU-Athletics transforms the way sports facilities are managed on campus. By embracing digital innovation, we aim to create a seamless and enriching sports environment for all members of our university community. Thank you for choosing NU-Athletics as your sports management platform.
