@@ -49,7 +49,7 @@ To start using NU-Athletics, follow these steps:
 4. **Make Reservations:** Reserve sports facilities for specific dates and times that suit your schedule.
 5. **Stay Updated:** Receive notifications about facility availability, upcoming events, and schedule changes.
 
-## Speciality (System Design Principles & Design Patterns)
+## Speciality :- System Design Principles & Design Patterns
 
 You've developed NU-Athletics, a Java-based desktop app for sports facility management. We ensured applying the system design principles like SOLID , DRY and etc. You've also applied design principles like the Singleton pattern for the database, Factory Pattern for instance creation and many more for ensuring efficient resource management. Streamlining processes, similar to NU-Slate and NU-Flex, enhances efficiency and user experience. The app's innovation and digitization align with trends in sports management. Prioritizing user experience and applying design principles contribute to a well-structured and effective application.
 
