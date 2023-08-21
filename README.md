@@ -1,4 +1,4 @@
-# NU-Athletics ( Software Design and Analysis Course Project ) 
+# NU-Athletics Software Design and Analysis BS Project  
 
 NU-Athletics is an innovative JAVA based desktop application designed to revolutionize the management of sports facilities on campus. By digitalizing the sports system, this application aims to enhance efficiency, accessibility, and user experience for both athletes and administrators. Similar to NU-Slate and NU-Flex, NU-Athletics streamlines processes and empowers users in the realm of sports management.
 
